@@ -1,9 +1,14 @@
-### Hello 👋
+### Hello_world! 👋
 
 My name is Michael Nguyen and i am currently a student at _nology :computer:
 
-hi
-======
+### Interests :star:
+
+- Baseball :baseball:
+- American Football 🏈
+- Gaming 🎮
+- Technologies 💻
+- Coding 👨‍💻 
 <!--
 **junyimn/junyimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
