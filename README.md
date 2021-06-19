@@ -13,7 +13,7 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 - Gaming 🎮
 - Technologies 💻
 - Coding 👨‍💻 
-- Politics and IR 👥
+- Politics and IR 🏛
 - History 🏺
 - Cultures around the world 🌏 
 - Cusines around the world 🍲
@@ -50,7 +50,7 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 
 --- 
 
-### GitHub Stats 
+### GitHub Stats 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyimn&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyimn&show_icons=true&theme=tokyonight)
