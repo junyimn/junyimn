@@ -20,7 +20,7 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 ### Techstacks & Tools taught 🧰
 
 
-<p align="center">
+<!-- <p align="center"> -->
  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" style="vertical-align:top; margin:4px" alt="CSS" height="40" style="vertical-align:top; margin:4px">
