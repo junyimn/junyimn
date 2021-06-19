@@ -20,7 +20,7 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 
 ---
 
-### Techstacks & Tools taught 🧰
+### Techstacks & Tools taught and used 🧰
 
 
 <p >
