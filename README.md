@@ -58,7 +58,7 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 
 --- 
 
-### ✉️ Find me on:
+###  Connect with me on ✉️:
 
 
 <p align="center">
