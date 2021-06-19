@@ -38,6 +38,8 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">****
 
 </p>
 
