@@ -21,3 +21,4 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyimn&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyimn&show_icons=true&theme=tokyonight)
