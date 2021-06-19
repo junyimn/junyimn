@@ -13,7 +13,10 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 - Gaming 🎮
 - Technologies 💻
 - Coding 👨‍💻 
-- Politics and IR 🌏
+- Politics and IR 👥
+- History 🏺
+- Cultures around the world 🌏 
+- Cusines around the world 🍲
 
 ---
 
