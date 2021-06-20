@@ -47,6 +47,8 @@ My name is Michael Nguyen and i am currently a student at _nology :computer:
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
  
  <img src="https://img.icons8.com/doodle/48/000000/figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src=https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png alt="Jest" height="40" style="vertical-align:top; margin:4px">
 
 </p>
 
