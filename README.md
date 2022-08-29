@@ -42,7 +42,7 @@ My name is Michael Nguyen , and I currently a Talent Data Specialist :computer:
 
 --- 
 
-### Techstacks & Tools taught and have used before ⏳
+### Techstacks & Tools learnt and have used before ⏳
 
 <p>
 <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
