@@ -24,6 +24,10 @@ My name is Michael Nguyen , currently a Talent Data Specialist :computer:
 
 
 <p >
+
+ <img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=6&page=1&position=6&related_id=5968350&origin=search" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
+
+
  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://img.icons8.com/color/48/000000/css3.png" height="40" style="vertical-align:top; margin:4px" alt="CSS" height="40" style="vertical-align:top; margin:4px">
