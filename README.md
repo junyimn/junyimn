@@ -1,13 +1,15 @@
 ### Hello_world!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Michael Nguyen , currently a Talent Data Specialist :computer:
+My name is Michael Nguyen , and I currently a Talent Data Specialist :computer:
 
 ---
 
 ### Interests :star:
 
+- Data analysing 🔍
+- Data visualisation/dashboarding 📊
 - Baseball :baseball:
-- American Football 🏈
+- American Football 🏈 
 - Basketball 🏀
 - Ice Hockey 🏒
 - Gaming 🎮
