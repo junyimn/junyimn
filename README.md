@@ -101,6 +101,7 @@ My name is Michael Nguyen , and I currently a Talent Data Specialist :computer:
  
   <img src=https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png alt="Cypress" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 ---
 
 ### GitHub Stats 📈
