@@ -27,13 +27,13 @@ My name is Michael Nguyen , currently a Talent Data Specialist :computer:
 
  <img src="https://img.icons8.com/color/452/python--v1.png" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
  
- <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" alt="SQL" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
  
-   <img src="https://img.icons8.com/color/344/power-bi.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.icons8.com/color/344/power-bi.png" alt="Power BI" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
  
-   <img src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
+   <img src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png" alt="Excel" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
 
- <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.icons8.com/fluency/344/jupyter.png" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
 
 
  <img src="https://img.icons8.com/color/480/000000/html-5--v1.png" alt="HTML" height="40" style="vertical-align:top; margin:4px"  height="40" style="vertical-align:top; margin:4px">
