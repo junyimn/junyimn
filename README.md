@@ -43,7 +43,7 @@ My name is Michael Nguyen, and I am currently a Junior Data Analyst :computer:
  
  <img src="https://img.icons8.com/fluency/48/null/r-project.png" alt="R" height="40" style="vertical-align:top; margin:4px">
  
- <img src=https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software>
+
 
 </p>
 
